@@ -1,0 +1,9 @@
+Les raisons pour lesquelles l’équipe a changé de moteur de BDD:
+
+	-Le stockage par Tables, ce qui est bien plus pratique lorsque l'on parle d'un car plus de faciliter a traiter les données.
+	-Les données sont triées en fonction de leur signification et stockées dans des tables séparées (d'ou la faciliter de traitement).
+
+https://www.oracle.com/fr/database/base-donnees-relationnelle-difference-non-relationnelle.html
+https://stackoverflow.com/
+https://sql.sh/
+https://sysreseau.net/mysqldump-sauvegarder-restaurer-mysql/
